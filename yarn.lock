@@ -518,10 +518,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nomicfoundation/hardhat-chai-matchers@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-chai-matchers/-/hardhat-chai-matchers-1.0.1.tgz#ee5bce2480918ef17cb724a2156a03dd62a8c058"
-  integrity sha512-7gl02+kyXu5gVsCQfC84IQ6zQJNsi/5T4FDjREKjD589mq+Y8o2knoShlwRoRqfnvgk18OTYgZCL3vqrajLviQ==
+"@nomicfoundation/hardhat-chai-matchers@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-chai-matchers/-/hardhat-chai-matchers-1.0.4.tgz#4b5c0d6eba637aabb49342272ae15ee6877a462e"
+  integrity sha512-n/5UMwGaUK2zM8ALuMChVwB1lEPeDTb5oBjQ1g7hVsUdS8x+XG9JIEp4Ze6Bwy98tghA7Y1+PCH4SNE2P3UQ2g==
   dependencies:
     "@ethersproject/abi" "^5.1.2"
     "@types/chai-as-promised" "^7.1.3"
